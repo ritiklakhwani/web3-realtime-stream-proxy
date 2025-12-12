@@ -1,4 +1,4 @@
-# 📈 Real-Time Stock Market Price Proxy  
+# 📈 Real-Time crypto Market Price Proxy  
 **Tech Stack:**  
 Node.js • Express • MongoDB • JWT • Zod • bcrypt • WebSockets (ws)
 
